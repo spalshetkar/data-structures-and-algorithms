@@ -34,16 +34,18 @@ Number of times attempted: 1
 
 import java.util.List;
 
-class LinkedListNode {
-    Integer value;
-    LinkedListNode next;
 
-    LinkedListNode(Integer value) {
-        this.value = value;
-        this.next = null;
-    }
-}
 public class MergeKLists {
+    class LinkedListNode {
+        Integer value;
+        LinkedListNode next;
+
+        LinkedListNode(Integer value) {
+            this.value = value;
+            this.next = null;
+        }
+    }
+
     public LinkedListNode merge_k_lists(List<LinkedListNode> lists) {
 
         if(lists == null) return null;
