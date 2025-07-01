@@ -41,4 +41,7 @@ Intuition:
 2. Can we use two pointers method - yes
 
 If the array is sorted then two pointer approach will help
+
+Time Complexity: O(n log n + n^2)
+Space Complexity: O(log n)
 */
