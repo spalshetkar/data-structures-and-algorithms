@@ -5,7 +5,7 @@ https://veedaily19.substack.com/p/master-dsa-in-14-weeks?mcp_token=eyJwaWQiOjI1M
 
 ## 1. Pointer Techniques
 1.1 Two Pointers / Fast & Slow Pointers
-- Pair with Target Sum (Easy)
+- [Two Sum (Easy)](1-two-sum)
 - Remove Duplicates (Easy)
 - Squaring a Sorted Array (Easy)
 - Triplet Sum to Zero (Medium)
